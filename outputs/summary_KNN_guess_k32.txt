@@ -1,0 +1,9 @@
+\begin{tabular}{lrlr}
+\toprule
+{} &  Iris-setosa & Iris-virginica &  Iris-versicolor \\
+\midrule
+Precisão  &          1.0 &            0.0 &         1.000000 \\
+Revocação &          1.0 &            nan &         0.571429 \\
+F1        &          1.0 &            nan &         0.727273 \\
+\bottomrule
+\end{tabular}

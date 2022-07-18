@@ -1,0 +1,69 @@
+----- KNN_guess_k2
+                 Iris-setosa  Iris-virginica  Iris-versicolor
+Iris-setosa                9               0                0
+Iris-virginica             0               7                0
+Iris-versicolor            0               2               12
+
+Acurácia : 0.9333333333333333
+
+           Iris-setosa  Iris-virginica  Iris-versicolor
+Precisão           1.0        0.777778         1.000000
+Revocação          1.0        1.000000         0.857143
+F1                 1.0        0.875000         0.923077
+----- KNN_guess_k3
+                 Iris-setosa  Iris-virginica  Iris-versicolor
+Iris-setosa                9               0                0
+Iris-virginica             0               7                0
+Iris-versicolor            0               2               12
+
+Acurácia : 0.9333333333333333
+
+           Iris-setosa  Iris-virginica  Iris-versicolor
+Precisão           1.0        0.777778         1.000000
+Revocação          1.0        1.000000         0.857143
+F1                 1.0        0.875000         0.923077
+----- KNN_guess_k8
+                 Iris-setosa  Iris-virginica  Iris-versicolor
+Iris-setosa                9               0                0
+Iris-virginica             0               6                0
+Iris-versicolor            0               3               12
+
+Acurácia : 0.9
+
+           Iris-setosa  Iris-virginica  Iris-versicolor
+Precisão           1.0        0.666667         1.000000
+Revocação          1.0        1.000000         0.800000
+F1                 1.0        0.800000         0.888889
+----- KNN_guess_k32
+                 Iris-setosa  Iris-virginica  Iris-versicolor
+Iris-setosa                9               0                0
+Iris-virginica             0               0                0
+Iris-versicolor            0               9               12
+
+Acurácia : 0.7
+
+           Iris-setosa Iris-virginica  Iris-versicolor
+Precisão           1.0            0.0         1.000000
+Revocação          1.0            nan         0.571429
+F1                 1.0            nan         0.727273
+----- k-means k=2
+Centroides:
+[6.580155932113957, 3.831931376373605, 5.532603323724471, 2.3618806810649207]
+[6.989645011589758, 4.229114992663918, 1.165329801216604, 1.2174943705074528]
+                                 Count
+Label           Kmeans_group_k2       
+Iris-setosa     1                    9
+Iris-versicolor 0                   12
+Iris-virginica  0                    9
+
+----- k-means k=3
+Centroides:
+[7.701748509494099, 3.6277440169012336, 6.13513280297855, 0.3716943151675465]
+[6.041741667237574, 2.742460231763627, 4.099436897644804, 1.477458851027442]
+[4.445899663561158, 2.676805561020466, 2.593049486263329, 2.2992288923405244]
+                                 Count
+Label           Kmeans_group_k3       
+Iris-setosa     2                    9
+Iris-versicolor 1                   12
+Iris-virginica  0                    2
+                1                    7

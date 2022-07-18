@@ -1,0 +1,9 @@
+\begin{tabular}{lrrr}
+\toprule
+{} &  Iris-setosa &  Iris-virginica &  Iris-versicolor \\
+\midrule
+Iris-setosa     &            9 &               0 &                0 \\
+Iris-virginica  &            0 &               6 &                0 \\
+Iris-versicolor &            0 &               3 &               12 \\
+\bottomrule
+\end{tabular}

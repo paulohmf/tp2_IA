@@ -1,0 +1,10 @@
+\begin{tabular}{llr}
+\toprule
+               &   &  Count \\
+Label & Kmeans\_group\_k2 &        \\
+\midrule
+Iris-setosa & 1 &      9 \\
+Iris-versicolor & 0 &     12 \\
+Iris-virginica & 0 &      9 \\
+\bottomrule
+\end{tabular}
